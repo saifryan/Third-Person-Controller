@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Third_Person_Controller_Folder/Scenes/MainMenu.unity
+    guid: eabf5e4a9a8da224eaaf11ee4854092b
+  - enabled: 1
+    path: Assets/Third_Person_Controller_Folder/Scenes/GamePlay.unity
+    guid: 036ba8638650d354485afa1791d15c1c
+  - enabled: 1
+    path: Assets/Third_Person_Controller_Folder/Scenes/ShowCase.unity
+    guid: cf73e244fc666534392c0ee5a9e8e5b6
+  m_configObjects: {}
