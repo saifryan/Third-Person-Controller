@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
-        NewCharacterShow(animator);
+        //NewCharacterShow(animator);
         // Init Data
         movementHandler = new MovementHandler(this, rb);
         jumpHandler = new JumpHandler(this, rb);

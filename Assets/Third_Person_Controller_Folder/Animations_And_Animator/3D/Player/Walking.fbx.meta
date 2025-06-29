@@ -58,14 +58,14 @@ ModelImporter:
       curves: []
       events:
       - time: 0.3195663
-        functionName: FootStopSoundPlay
+        functionName: LeftFootStopSoundPlay
         data: 
         objectReferenceParameter: {fileID: 11500000, guid: 4c7a72b2a9456e54187875186bac3933, type: 3}
         floatParameter: 0
         intParameter: 0
         messageOptions: 0
       - time: 0.8523489
-        functionName: FootStopSoundPlay
+        functionName: RightFootStopSoundPlay
         data: 
         objectReferenceParameter: {fileID: 11500000, guid: 4c7a72b2a9456e54187875186bac3933, type: 3}
         floatParameter: 0
